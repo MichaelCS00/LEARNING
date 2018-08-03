@@ -1,6 +1,11 @@
 package com.example.michaelcs.mysqliteproject;
 
-public class AddTableActivity
+import android.support.v7.app.AppCompatActivity;
+
+/**
+ * @author Administrator
+ */
+public class AddTableActivity extends AppCompatActivity
 {
 
 }
